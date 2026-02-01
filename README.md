@@ -1,7 +1,7 @@
 # Ti3C2Se2 MXene – DFT Structure
 
 <p align="center">
-  <img src="images/Ti3C2Se2_structure.png" alt="Ti3C2Se2 MXene structure" width="500"/>
+  <img src="c1.JPG" alt="Ti3C2Se2 MXene structure" width="500"/>
 </p>
 
 This repository provides a **DFT-generated CIF structure** of **Ti₃C₂Se₂**, a selenium-terminated
