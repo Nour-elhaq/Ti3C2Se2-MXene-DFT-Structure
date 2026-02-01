@@ -44,9 +44,7 @@ This structure is suitable for:
 - Users are encouraged to fully relax the structure prior to production calculations
 - Alternative termination sites (fcc, hcp) and surface coverages may be explored
 
-  --
-  ## License
-This project is released under the **Apache License**.  
-See the license file here:  
-👉 https://github.com/Nour-elhaq/Ti3C2Se2-MXene-DFT-Structure/blob/main/LICENSE
+## License
+This project is released under the [MIT License](https://github.com/Nour-elhaq/Ti3C2Se2-MXene-DFT-Structure/blob/main/LICENSE).
+
 
