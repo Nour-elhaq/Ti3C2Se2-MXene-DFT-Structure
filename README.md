@@ -47,4 +47,10 @@ This structure is suitable for:
 ## License
 This project is released under the [Apache License](https://github.com/Nour-elhaq/Ti3C2Se2-MXene-DFT-Structure/blob/main/LICENSE).
 
+## Citation
+If you use this structure in your research, please cite:
+
+El Macouti, Nour El Haq, *Ti₃C₂Se₂ MXene DFT Structure*, GitHub repository, 2026.  
+DOI: [![DOI](https://zenodo.org/badge/1147245705.svg)](https://doi.org/10.5281/zenodo.18449435)
+
 
